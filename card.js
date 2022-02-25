@@ -47,6 +47,7 @@ const data = {
         .hex("#2b82b2")
         .bold(config.workPlace)}`,
     twitter: chalk.gray("https://twitter.com/") + chalk.cyan(config.twitterUsername),
+    instagram: chalk.gray("https://insatagram.com/") + chalk.cyan(config.instagraminUsername),
     github: chalk.gray("https://github.com/") + chalk.green(config.githubUsername),
     linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue(config.linkedinUsername),
     web: chalk.cyan(config.websiteUrl),
@@ -54,6 +55,7 @@ const data = {
 
     labelWork: chalk.white.bold("       Work:"),
     labelTwitter: chalk.white.bold("    Twitter:"),
+    labelInstagram: chalk.white.bold("    Instagram:"),
     labelGitHub: chalk.white.bold("     GitHub:"),
     labelLinkedIn: chalk.white.bold("   LinkedIn:"),
     labelWeb: chalk.white.bold("        Web:"),
@@ -68,6 +70,7 @@ const me = boxen(
         ``,
         `${data.labelTwitter}  ${data.twitter}`,
         `${data.labelGitHub}  ${data.github}`,
+        `${data.labelInstagram}  ${data.instagram}`,
         `${data.labelLinkedIn}  ${data.linkedin}`,
         `${data.labelWeb}  ${data.web}`,
         ``,

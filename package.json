@@ -1,10 +1,10 @@
 {
-  "name": "shreyam",
-  "version": "1.0.7",
-  "description": "A personal card for Shreyam Maity",
+  "name": "satyakiran29",
+  "version": "1.0.4",
+  "description": "A personal card for Satyakiran",
   "main": "card.js",
   "bin": {
-    "shreyam": "./card.js"
+    "Satyakiran29": "./card.js"
   },
   "scripts": {
     "test": "node card.js",
@@ -28,6 +28,6 @@
     "npx card",
     "business card"
   ],
-  "author": "Shreyam Maity <sm8967724231@gmail.com> (https://shreyam.in/)",
+    "author": "Satyakiran <contact.psatyakiran@gmail.com> (https://satyakiran.ml/)",
   "license": "ISC"
 }
