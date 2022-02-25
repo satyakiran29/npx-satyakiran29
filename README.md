@@ -19,7 +19,7 @@ And get to know me in unique style.
 
 The final output might look something like this:
 
-![image](https://github.com/ShreyamMaity/npx-card/blob/main/demo.gif)
+![image](https://github.com/satyakiran29/npx-satyakiran29/blob/main/demo.gif?raw=true)
 
 
 ## 🛠 Installation & Set Up
