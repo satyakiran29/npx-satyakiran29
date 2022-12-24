@@ -1,6 +1,6 @@
 {
   "name": "satyakiran29",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "A personal card for Satyakiran",
   "main": "card.js",
   "bin": {
@@ -28,6 +28,6 @@
     "npx card",
     "business card"
   ],
-    "author": "Satyakiran <contact.psatyakiran@gmail.com> (https://satyakiran.ml/)",
+  "author": "Satyakiran <contact.psatyakiran@gmail.com> (https://satyakiran.ml/)",
   "license": "ISC"
 }
