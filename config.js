@@ -8,6 +8,6 @@ module.exports = {
     instagraminUsername: "satyakiran29",
     githubUsername: "satyakiran29",
     linkedinUsername: "Satyakiran",
-    websiteUrl: "https://satyakiran.pages.dev/#/",
+    websiteUrl: "https://satyakiran.vercel.app/bio",
     npxName: "satyakiran29",
 };
